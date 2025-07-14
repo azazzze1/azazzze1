@@ -44,10 +44,10 @@
 ## 🎓 Дополнительное образование
 - **Интерактивный тренажёр по SQL**  
 Автор курса: Дальневосточный федеральный университет  
-Ноябрь 2023 — Декабрь 2023 (1 месяц)
+Ноябрь 2023 — Декабрь 2023 (1 месяц)https://img.shields.io/badge/any_text-you_like-blue
 
-##
-📬 Связаться со мной: [Email](mailto:egorka44552014@gmail.com) • [Telegram](https://t.me/azazzze1)
+## 📬 Связаться со мной: 
+[![Follow on Telegram](https://img.shields.io/badge/gmail-egorka44552014-red.svg?style=flat&logo=gmail)](mailto:egorka44552014@gmail.com) [![Follow on Telegram](https://img.shields.io/badge/telegram-%40azazzze1-blue.svg?style=flat&logo=telegram)](https://t.me/azazzze1)
 
 ## 🤖 GitHub Stats
 
