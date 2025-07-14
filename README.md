@@ -17,7 +17,26 @@
 
 ## 💼 Что я знаю:
 - 🧠 ЯП: C++ • SQL • Python • JavaScript 
-- 🖥️ Инструменты: Linux • Git • Docker • PostgreSQL • Jupyter 
+- 🖥️ Инструменты: Linux • Git • Docker • PostgreSQL • Jupyter
+- 📚 Фреймворки & Библиотеки: Celery • Flask • React • Angular • Pandas • Scikit-learn  
+
+## 🛠 Портфолио
+
+📌 [GitHub](https://github.com/azazzze1/Shushkov_Egor)
+
+## 📚 Научные работы
+
+📌 **ОБЗОР НЕЙРОННЫХ СЕТЕЙ ДЛЯ ПОВЫШЕНИЯ ТОЧНОСТИ ФИЛЬТРА ДЕСТРУКТИВНОГО КОНТЕНТА В ТУМАННОЙ ВЫЧИСЛИТЕЛЬНОЙ СРЕДЕ** 
+
+🔗 [Ссылка на сборник с публикацией](https://etu.ru/assets/files/Faculty-FKTI/MO/mo-2025/sbornik-2025-moevm.pdf)
+
+📄 Тип: статья в сборнике конференции
+
+📌 **Вычисление гравитационного потенциала по дифференциальным межспутниковым измерениям** 
+
+🔗 [Заметка](http://entroforce.ru/lab#grace-modeling) на сайте кандидата физ.-мат. наук Павлова Д.А.
+
+📄 Тип:  Научно-исследовательская работа 
 
 ## 📬 Связаться со мной:
 
