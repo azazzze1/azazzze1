@@ -29,7 +29,7 @@
 
 ## 📚 Научные работы
 
-📌 **ОБЗОР НЕЙРОННЫХ СЕТЕЙ ДЛЯ ПОВЫШЕНИЯ ТОЧНОСТИ ФИЛЬТРА ДЕСТРУКТИВНОГО КОНТЕНТА В ТУМАННОЙ ВЫЧИСЛИТЕЛЬНОЙ СРЕДЕ** 
+📌 **Обзор Нейронных Сетей для Повышения Точности Фильтра Деструктивного Контента в Туманной Вычислительной Среде** 
 
 🔗 [Ссылка на сборник с публикацией](https://etu.ru/assets/files/Faculty-FKTI/MO/mo-2025/sbornik-2025-moevm.pdf)
 
@@ -50,3 +50,8 @@
 📬 Связаться со мной:
 
 📩 [Email](mailto:egorka44552014@gmail.com) • [Telegram](https://t.me/azazzze1)
+
+## 🤖 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azazzze1&show_icons=true&layout=compact)]( https://github.com/azazzze1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azazzze1&show_icons=true&theme=radical)]( https://github.com/azazzze1)
