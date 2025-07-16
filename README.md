@@ -52,4 +52,3 @@
 ## 🤖 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azazzze1&show_icons=true&layout=compact)]( https://github.com/azazzze1)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azazzze1&show_icons=true&theme=radical)]( https://github.com/azazzze1)
